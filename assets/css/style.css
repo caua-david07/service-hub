@@ -44,3 +44,18 @@ body {
     text-decoration: none;
     border-bottom: 2px solid transparent;
 }
+.navegacao a:hover {
+    color: #2563eb;
+    border-bottom-color: #2563eb;
+}
+.navegacao a.ativo {
+    color: #2563eb;
+    font-weight: 700;
+    border-bottom-color: #2563eb;
+}
+.navegacao a:focus {
+    color: #2563eb;
+    border-bottom-color: #2563eb;
+    outline: 2px solid #93c5fd;
+    outline-offset: 4px;
+}
