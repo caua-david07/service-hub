@@ -9,3 +9,9 @@ body {
     color: #1f2937;
     line-height: 1.6;
 }
+.cabecalho {
+    background-color: #ffffff;
+    padding: 32px 24px 20px;
+    text-align: center;
+    box-shadow: 0 1px 8px rgb(15 23 42 / 0.05);
+}
